@@ -24,7 +24,7 @@ Data file structure:
 
 ## 3. What I did
 
-[Main Code](Image_Classifier_Project.ipynb)
+[Main Code](Image Classifier Project.ipynb)
 
 1. Data loading and data preprocessing
 
