@@ -24,7 +24,7 @@ Data file structure:
 
 ## 3. What I did
 
-[Main Code](Image Classifier Project.ipynb)
+[Image Classifier Project.ipynb](https://github.com/Arnit9/Image-Classifier-UDACITY-Project/blob/master/Image%20Classifier%20Project.ipynb)
 
 1. Data loading and data preprocessing
 
