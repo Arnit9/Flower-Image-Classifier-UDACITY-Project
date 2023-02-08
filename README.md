@@ -44,7 +44,7 @@ Data file structure:
 
 3. Use the trained classifier to predict image content
 
-    - Test trained model on testing set (93% accuracy)
+    - Test trained model on testing set (94% accuracy)
     - Save trained model as checkpoint
     - Write a function that gives top-5 most probable flower names based on image path
 
